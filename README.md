@@ -7,3 +7,6 @@ Electronic Highway Sign: [DaFont \[拉丁字母\]](https://www.dafont.com/electr
 # 存在的问题
   1. 游戏设置页面以及部分程序自动替换文本的句子没有翻译/无法翻译
   2. 字体合并带来的行距问题在某些时候可能导致很难阅读
+
+# 安装
+这个 Repo 只是留给我个人归档用的, 如果你想用可以去搜怎么安装 BeplnEx 插件
