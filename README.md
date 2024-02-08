@@ -1,4 +1,4 @@
-# When The Darkness Come 中文化
+# When The Darkness Comes 中文化
 基于 [xiaoye97](https://github.com/xiaoye97/I18NFont4UnityGame) 的项目制作的 BeplnEx 汉化插件  
 使用了多个字体合并作为游戏字体, 字体来源:  
 Anton: [Google Fonts \[拉丁字母\]](https://fonts.google.com/specimen/Anton) [思源黑体 \[中文\]](https://github.com/adobe-fonts/source-han-sans)  
