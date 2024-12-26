@@ -10,6 +10,6 @@ Electronic Highway Sign: [DaFont \[拉丁字母\]](https://www.dafont.com/electr
   3. 字体可能在部分场景下会难以阅读
 
 # 安装
-这个 Repo 只是留给我个人归档用的, 如果你想用可以去搜怎么安装 BeplnEx 插件
+这个 Repo 只是留给我个人归档用的, 如果你想用可以去搜怎么安装 BeplnEx 插件  
 以下是大概的文件夹结构 (如果你想用的话)
 ![文件结构](/folder_structure.png)
