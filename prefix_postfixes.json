@@ -1,0 +1,50 @@
+[
+    {
+        "Prefix": "You are not a new player, are you, ",
+        "Suffix": " ?",
+        "PrefixTranslated": "你不是新玩家, 对吧, ",
+        "SuffixTranslated": " ?"
+    },
+    {
+        "Prefix": "Aaah, ",
+        "Suffix": ", you still persist. Even in this dream. You still go. Always forward.",
+        "PrefixTranslated": "啊啊, ",
+        "SuffixTranslated": ", 即便在梦中, 你依然坚持不懈, 始终向前."
+    },
+    {
+        "Prefix": "Do you believe ",
+        "Suffix": " is a good person?",
+        "PrefixTranslated": "你认为 ",
+        "SuffixTranslated": " 是一个好人吗?"
+    },
+    {
+        "Prefix": "You are not supposed to be here, ",
+        "Suffix": ".",
+        "PrefixTranslated": "你不应该在这里, ",
+        "SuffixTranslated": "."
+    },
+    {
+        "Prefix": "Wouldn't you agree, ",
+        "Suffix": " ?",
+        "PrefixTranslated": "你不这么认为么, ",
+        "SuffixTranslated": " ?"
+    },
+    {
+        "Prefix": "Detention: ",
+        "Suffix": "!",
+        "PrefixTranslated": "留堂者: ",
+        "SuffixTranslated": "!"
+    },
+    {
+        "Prefix": "Bye, ",
+        "Suffix": ".",
+        "PrefixTranslated": "再见, ",
+        "SuffixTranslated": "."
+    },
+    {
+        "Prefix": "You have reached the final end of this experience, ",
+        "Suffix": ".",
+        "PrefixTranslated": "你已经到达这场体验的终点了, ",
+        "SuffixTranslated": "."
+    }
+]
