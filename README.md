@@ -1,6 +1,6 @@
 # When The Darkness Comes 中文化
 基于 [xiaoye97](https://github.com/xiaoye97/I18NFont4UnityGame) 的项目制作的 BeplnEx 汉化插件  
-使用了多个字体合并作为游戏字体, 字体来源:  
+使用的字体来源:  
 Anton: [得意黑](https://github.com/atelier-anchor/smiley-sans)  
 Electronic Highway Sign: [缝合像素字体](https://github.com/TakWolf/fusion-pixel-font)
 
