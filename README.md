@@ -5,9 +5,8 @@ Anton: [得意黑](https://github.com/atelier-anchor/smiley-sans)
 Electronic Highway Sign: [缝合像素字体](https://github.com/TakWolf/fusion-pixel-font)
 
 # 存在的问题
-  1. 游戏设置页面没有翻译
-  2. 因为调整了字体的行高防止重叠, 可能会导致部分地方的文本超出可视范围
-  3. 字体在部分场景下会难以阅读
+  1. 因为调整了字体的行高防止重叠, 可能会导致部分地方的文本超出可视范围
+  2. 字体在部分场景下会难以阅读
 
 # 安装
 这个 Repo 只是留给我个人归档用的, 如果你想用可以去搜怎么安装 BeplnEx 插件  
