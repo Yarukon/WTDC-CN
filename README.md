@@ -1,5 +1,5 @@
 # When The Darkness Comes 中文化
-基于 [xiaoye97](https://github.com/xiaoye97/I18NFont4UnityGame) 的项目制作的 BeplnEx 汉化插件  
+基于 [xiaoye97](https://github.com/xiaoye97/I18NFont4UnityGame) 的项目制作的 BeplnEx 字体替换与汉化插件  
 使用的字体来源:  
 Anton: [得意黑](https://github.com/atelier-anchor/smiley-sans)  
 Electronic Highway Sign: [缝合像素字体](https://github.com/TakWolf/fusion-pixel-font)
@@ -12,3 +12,6 @@ Electronic Highway Sign: [缝合像素字体](https://github.com/TakWolf/fusion-
 这个 Repo 只是留给我个人归档用的, 如果你想用可以去搜怎么安装 BeplnEx 插件  
 以下是大概的插件文件夹结构 (如果你想用的话)
 ![文件结构](/folder_structure.png)
+
+# Splash Screen
+![SplashScreen](/splashscreen.png)
